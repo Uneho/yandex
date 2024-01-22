@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\thirdYandexCopy\bin\Debug\thirdYandexCopy.exe.config
+C:\Users\User\source\repos\thirdYandexCopy\bin\Debug\thirdYandexCopy.exe
+C:\Users\User\source\repos\thirdYandexCopy\bin\Debug\thirdYandexCopy.pdb
+C:\Users\User\source\repos\thirdYandexCopy\obj\Debug\thirdYandexCopy.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\thirdYandexCopy\obj\Debug\thirdYandexCopy.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\thirdYandexCopy\obj\Debug\thirdYandexCopy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\thirdYandexCopy\obj\Debug\thirdYandexCopy.exe
+C:\Users\User\source\repos\thirdYandexCopy\obj\Debug\thirdYandexCopy.pdb
