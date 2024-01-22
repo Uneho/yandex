@@ -40,7 +40,7 @@ namespace thirdYandexCopy
 
             foreach (int score in secondaryScores)
             {
-                totalScore += score;
+                totalScore += score; //123
             }
 
             return totalScore;
